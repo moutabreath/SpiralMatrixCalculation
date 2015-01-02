@@ -1,0 +1,10 @@
+c:\users\tal\documents\visual studio 2012\Projects\SpiralMatrixCalculationWebForms\SpiralMatrixCalculationWebForms\bin\Debug\SpiralMatrixCalculationWebForms.exe.config
+c:\users\tal\documents\visual studio 2012\Projects\SpiralMatrixCalculationWebForms\SpiralMatrixCalculationWebForms\obj\Debug\SpiralMatrixCalculationWebForms.csprojResolveAssemblyReference.cache
+c:\users\tal\documents\visual studio 2012\Projects\SpiralMatrixCalculationWebForms\SpiralMatrixCalculationWebForms\obj\Debug\SpiralMatrixCalculationWebForms.Form1.resources
+c:\users\tal\documents\visual studio 2012\Projects\SpiralMatrixCalculationWebForms\SpiralMatrixCalculationWebForms\obj\Debug\SpiralMatrixCalculationWebForms.Properties.Resources.resources
+c:\users\tal\documents\visual studio 2012\Projects\SpiralMatrixCalculationWebForms\SpiralMatrixCalculationWebForms\obj\Debug\SpiralMatrixCalculationWebForms.csproj.GenerateResource.Cache
+c:\users\tal\documents\visual studio 2012\Projects\SpiralMatrixCalculationWebForms\SpiralMatrixCalculationWebForms\bin\Debug\SpiralMatrixCalculationWebForms.exe
+c:\users\tal\documents\visual studio 2012\Projects\SpiralMatrixCalculationWebForms\SpiralMatrixCalculationWebForms\bin\Debug\SpiralMatrixCalculationWebForms.pdb
+c:\users\tal\documents\visual studio 2012\Projects\SpiralMatrixCalculationWebForms\SpiralMatrixCalculationWebForms\obj\Debug\SpiralMatrixCalculationWebForms.exe
+c:\users\tal\documents\visual studio 2012\Projects\SpiralMatrixCalculationWebForms\SpiralMatrixCalculationWebForms\obj\Debug\SpiralMatrixCalculationWebForms.pdb
+c:\users\tal\documents\visual studio 2012\Projects\SpiralMatrixCalculationWebForms\SpiralMatrixCalculationWebForms\obj\Debug\SpiralMatrixCalculationWebForms.csproj.ResolveComReference.cache
