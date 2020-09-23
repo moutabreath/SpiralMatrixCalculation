@@ -41,3 +41,7 @@ SpiralMatrixCalculationWebForms\SpiralMatrixCalculationWebForms\bin
 Network Trash Folder
 Temporary Items
 .apdisk
+*.pdb
+*.exe
+/bin/Debug/
+*.cache
